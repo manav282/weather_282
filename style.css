@@ -1,0 +1,29 @@
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    opacity: 10;
+}
+.search{
+    padding:10px;
+}
+.details{
+    padding:10px;
+    display:flex;
+    flex-direction: column;
+}
+.go{
+    border:2px solid black;
+    border-radius: 6px;
+}
+.place{
+    font-size: large;
+    font-weight: bold;
+    align-self: center;
+}
+.container{
+    background-color: aqua;
+    border:2px solid black;
+    border-radius: 6px;
+}
